@@ -7,5 +7,4 @@
         <li><a href="https://arthurfontis.github.io/site-viagens/" target="_blank">Projeto inspirado em viagens no Brasil</a></li>
     </ul>
 </p>
-<h2>Projetos Feitos com os conhecimentos adquiridos até o momento</h2>
 
