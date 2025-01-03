@@ -6,6 +6,7 @@
         <li><a href="https://arthurfontis.github.io/carros/" target="_blank">Projeto inspirado em carros</a></li>
         <li><a href="https://arthurfontis.github.io/site-viagens/" target="_blank">Projeto inspirado em viagens no Brasil</a></li>
         <li><a href="https://arthurfontis.github.io/projeto-cordel/" target="_blank">Projeto feito com auxílio do CursoemVídeo baseado em um cordel, usando o efeito parallax </a></li>
+        <li><a href="https://arthurfontis.github.io/fontis-motors/" target="_blank">Projeto de um site de concessionária</a></li>
     </ul>
 </p>
 
